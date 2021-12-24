@@ -29,3 +29,7 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+Output Screenshots
+------------------
+<img width="200" height="433" src="./output/MarsMainScreen.png" alt="Main Landing Screen">
